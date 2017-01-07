@@ -2,7 +2,7 @@ Source of the data:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The Project.R script performs the following steps:
+The run_analysis.R script performs the following steps:
 # 1)
 Read X_train.txt, y_train.txt and subject_train.txt from the "./UCI/train" directory and store them in the trainData, trainLabel and trainSubject variables.
 and 
