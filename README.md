@@ -1,17 +1,17 @@
 # Getting-and-Cleaning-Data
 
-This file describes how Project.R works:
+A description of how Project.R works:
 
 # 1) 
-Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and rename the folder with "UCI". Make sure the folder "data" and the Project.R script are both in the current working directory.
+Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and rename the folder "UCI". Make sure the folder "UCI" and the Project.R script both are in the current working directory.
 
 # 2) 
-Use source("Project.R") command in RStudio.
+Use the source("Project.R") function in RStudio.
 
 # 3)
 Two output files have been created in the current working directory:
-merged_data.txt (7.9 Mb): it contains a data frame called cleanedData with 10299*68 dimension.
-data_with_means.txt (220 Kb): it contains a data frame called result with 180*68 dimension.
+data_with_means.txt : containing a data frame with dimensions of 180 and 68.
+merged_data.txt : containing a data frame called cleanedData with dimensions of 10299 and 68.
 
 # 4)
 
