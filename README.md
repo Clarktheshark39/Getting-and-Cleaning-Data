@@ -17,4 +17,4 @@ merged_data.txt : containing a data frame called cleanedData with dimensions of 
 
 # 4)
 
-Finally, use data <- read.table("data_with_means.txt") command in RStudio to read the file. The file contains the average and standard deviation of each variable for each activity and each subject, for each of the 6 activities in total and 30 subjects in total, and so we have 180 rows with all combinations for each of the 66 features.
+Finally, use data <- read.table("data_with_means.txt") command in RStudio to read the file. The file contains the average of each variable for each activity and each subject, for each of the 6 activities in total and 30 subjects in total, and so we have 180 rows with all combinations for each of the 66 features.
