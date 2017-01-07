@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data
 
-This file describes how Project.R works.
+This file describes how Project.R works:
 
 # 1) 
 Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and rename the folder with "UCI". Make sure the folder "data" and the Project.R script are both in the current working directory.
