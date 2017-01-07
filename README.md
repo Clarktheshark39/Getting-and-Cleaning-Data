@@ -1,12 +1,12 @@
 # Getting-and-Cleaning-Data
 
-A description of how Project.R works:
+A description of how run_analysis.R works:
 
 # 1) 
 Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and rename the folder "UCI". Make sure the folder "UCI" and the Project.R script both are in the current working directory.
 
 # 2) 
-Use the source("Project.R") function in RStudio.
+Use the source("run_analysis.R") function in RStudio.
 
 # 3)
 Two output files have been created in the current working directory:
