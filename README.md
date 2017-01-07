@@ -10,7 +10,9 @@ Use the source("Project.R") function in RStudio.
 
 # 3)
 Two output files have been created in the current working directory:
+
 data_with_means.txt : containing a data frame with dimensions of 180 and 68.
+
 merged_data.txt : containing a data frame called cleanedData with dimensions of 10299 and 68.
 
 # 4)
